@@ -1,0 +1,5 @@
+'make_repeater-correct', (0, 70)
+'has_seven-correct', (512, 70)
+'summation-correct', (1024, 70)
+'accumulate-correct', (1536, 70)
+'filtered_accumulate-correct', (2048, 70)
